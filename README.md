@@ -6,7 +6,7 @@ Designed and developed by @arturoquiros and @josealirivasgomez
 
 ⬇⬇⬇ Checkout our project  ⬇⬇⬇
 
-https://mern-photos-app.herokuapp.com/
+https://social-app-react.up.railway.app
 
 ¿How to run?
 
